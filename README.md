@@ -1,7 +1,7 @@
 ## Sentiment Analysis on Product Quality
 
 **Authors:** Bhumika Jain
-**Course:**Predictive Analytics for Business  
+**Course:** Predictive Analytics for Business  
 **Tools:** Python, Pandas, Matplotlib, Seaborn
 
 ---
