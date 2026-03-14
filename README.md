@@ -1,6 +1,6 @@
 ## Sentiment Analysis on Product Quality
 
-**Authors:** Bhumika Jain, Vishwa Patel, Akkshat Shah  
+**Authors:** Bhumika Jain
 **Course:** Big Data Analytics / Predictive Analytics for Business  
 **Tools:** Python, Pandas, Matplotlib, Seaborn, NLTK (if used)
 
